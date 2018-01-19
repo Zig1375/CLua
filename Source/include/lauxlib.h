@@ -1,1 +1,0 @@
-/Users/zig/Projects/swift/Linux/CLua/Source/lauxlib.h
