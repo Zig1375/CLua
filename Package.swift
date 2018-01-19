@@ -4,7 +4,7 @@ let package = Package(
     name: "CLua",
     pkgConfig: "lua",
     providers: [
-        .Brew("Lua")
+        .Brew("Lua"),
         .Apt("lua5.3")
     ]
 )
